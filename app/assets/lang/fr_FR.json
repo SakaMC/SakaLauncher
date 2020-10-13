@@ -1,0 +1,50 @@
+{
+    "html": {
+        "avatarOverlay": "Modifier"
+    },
+    "js": {
+        "login": {
+            "error": {
+                "invalidValue": "* Value Invalide",
+                "requiredValue": "* Requis",
+                "userMigrated": {
+                    "title": "Erreur pendant le Chargement:<br>Les informations d'identification invalides",
+                    "desc": "Vous avez tenté de vous connecter avec un compte migré. Essayez à nouveau en utilisant l'adresse e-mail du compte comme nom d'utilisateur."
+                
+                },
+                "invalidCredentials": {
+                    "title": "Erreur pendant le Chargement:<br>Les informations d'identification invalides",
+                    "desc": "Votre Mot de passe ou Adresse-Email est Invalide"
+                },
+                "rateLimit": {
+                    "title": "Erreur pendant le Chargement:<br>Les informations d'identification invalides",
+                    "desc": "Vous envoyé trop de demande de Connexion . Réesayé Plus Tard"
+                },
+                "noInternet": {
+                    "title": "Erreur pendant le Chargement:<br>Vous n'avez pas de Connexion Internet",
+                    "desc": "Vous n'étes pas Connecté a Internet."
+                },
+                "authDown": {
+                    "title": "Erreur pendant le Chargement:<br>Serveur D'Authentification est Eteint",
+                    "desc": "Les Serveur D'Authentification de Mojang est Eteint / Ou est En Mises a Jour <a href=\"https://help.mojang.com/\">Le lien Redirige sur Le Portail D'Aide de Mojang</a>."
+                },
+                "notPaid": {
+                    "title": "Erreur A La Connexion de Votre Jeu:<br>Jeu Non Acheté",
+                    "desc": "Vous essayé de vous Connecter a un compte Non-Payé . Acheté le jeu vers ce lien <a href=\"https://minecraft.net/\">Minecraft.net</a>"
+                },
+                "unknown": {
+                    "title": "Error Pendant la Connexion a votre Compte:<br>Erreur Inconnu"
+                }
+            },
+            "login": "Connexion",
+            "loggingIn": "Connexion en Cours",
+            "success": "Réussi",
+            "tryAgain": "Veuillez Réesayé"
+        },
+        "landing": {
+            "launch": {
+                "pleaseWait": "Chargement.."
+            }
+        }
+    }
+}
